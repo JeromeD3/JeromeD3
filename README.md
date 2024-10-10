@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerome" alt="jerome" /></a> </p>
 
-- 🔭 I’m currently study on **Guangdong**
-
-- 🌱 I’m currently learning **React and Vue**
-
 - 📫 How to reach me **1760399176@qq.com**
 
 <h3 align="left">Connect with me:</h3>
