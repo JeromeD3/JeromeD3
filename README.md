@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **1760399176@qq.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
